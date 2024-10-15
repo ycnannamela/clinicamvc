@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\bin\Debug\net8.0\Entitad.deps.json
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\bin\Debug\net8.0\Entitad.dll
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\bin\Debug\net8.0\Entitad.pdb
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\obj\Debug\net8.0\Entitad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\obj\Debug\net8.0\Entitad.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\obj\Debug\net8.0\Entitad.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\obj\Debug\net8.0\Entitad.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\obj\Debug\net8.0\Entitad.dll
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\obj\Debug\net8.0\refint\Entitad.dll
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\obj\Debug\net8.0\Entitad.pdb
+C:\Users\Administrator\source\repos\ClinicaMVC\Entitad_Medico\obj\Debug\net8.0\ref\Entitad.dll

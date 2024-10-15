@@ -1,0 +1,20 @@
+﻿@model List<Entidad.Medico>
+<h1 style="text-align:center">MOSTRAR MEDICOS</h1>
+<h3 style="text-align:center">@ViewBag.Info</h3>
+<table class="table">
+    <tr>
+        <td>Matricula</td>
+        <td>Nombre</td>
+        <td>Apellido</td>
+        <td>Edad</td>
+    </tr>
+    @foreach(var m in Model)
+    {
+        <tr>
+            <td>@m.Matricula</td>
+            <td>@m.Nombre</td>
+            <td>@m.Apellido</td>
+            <td>@m.Edad</td>
+        </tr>
+    }
+</table>
