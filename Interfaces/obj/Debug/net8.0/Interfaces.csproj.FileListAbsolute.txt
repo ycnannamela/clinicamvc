@@ -1,0 +1,12 @@
+/workspaces/clinicamvc/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/workspaces/clinicamvc/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/workspaces/clinicamvc/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/workspaces/clinicamvc/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/clinicamvc/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/workspaces/clinicamvc/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/workspaces/clinicamvc/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/workspaces/clinicamvc/Interfaces/obj/Debug/net8.0/Interfaces.sourcelink.json
+/workspaces/clinicamvc/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/workspaces/clinicamvc/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/workspaces/clinicamvc/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/workspaces/clinicamvc/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll

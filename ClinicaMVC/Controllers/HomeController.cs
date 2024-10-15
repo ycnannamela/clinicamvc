@@ -13,6 +13,7 @@ namespace ClinicaMVC.Controllers
         }
         public IActionResult MostrarMedicos()
         {
+            //new List<Medico>(); dotnet run
             List<Medico> medicosActuales = actividad_medico.ReadAll(); 
             ViewBag.info = "LISTADO";
             return View("MostrarMedicos", medicosActuales);

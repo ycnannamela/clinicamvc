@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj": {}
+    "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj": {
+    "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj",
+        "projectUniqueName": "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj",
         "projectName": "Entidad",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\obj\\",
+        "projectPath": "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/clinicamvc/Entitad_Medico/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\nuget.org.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

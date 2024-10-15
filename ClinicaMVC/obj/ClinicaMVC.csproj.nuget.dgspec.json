@@ -1,47 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\ClinicaMVC\\ClinicaMVC.csproj": {}
+    "/workspaces/clinicamvc/ClinicaMVC/ClinicaMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Actividad_Medico\\Actividad.csproj": {
+    "/workspaces/clinicamvc/Actividad_Medico/Actividad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Actividad_Medico\\Actividad.csproj",
+        "projectUniqueName": "/workspaces/clinicamvc/Actividad_Medico/Actividad.csproj",
         "projectName": "Actividad",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Actividad_Medico\\Actividad.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Actividad_Medico\\obj\\",
+        "projectPath": "/workspaces/clinicamvc/Actividad_Medico/Actividad.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/clinicamvc/Actividad_Medico/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\nuget.org.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj"
+              "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj": {
+                "projectPath": "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj"
               },
-              "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Interfaces\\Interfaces.csproj"
+              "/workspaces/clinicamvc/Interfaces/Interfaces.csproj": {
+                "projectPath": "/workspaces/clinicamvc/Interfaces/Interfaces.csproj"
               },
-              "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Persistencia\\Persistencia.csproj"
+              "/workspaces/clinicamvc/Persistencia/Persistencia.csproj": {
+                "projectPath": "/workspaces/clinicamvc/Persistencia/Persistencia.csproj"
               }
             }
           }
@@ -76,45 +68,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\ClinicaMVC\\ClinicaMVC.csproj": {
+    "/workspaces/clinicamvc/ClinicaMVC/ClinicaMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\ClinicaMVC\\ClinicaMVC.csproj",
+        "projectUniqueName": "/workspaces/clinicamvc/ClinicaMVC/ClinicaMVC.csproj",
         "projectName": "ClinicaMVC",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\ClinicaMVC\\ClinicaMVC.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\ClinicaMVC\\obj\\",
+        "projectPath": "/workspaces/clinicamvc/ClinicaMVC/ClinicaMVC.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/clinicamvc/ClinicaMVC/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\nuget.org.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Actividad_Medico\\Actividad.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Actividad_Medico\\Actividad.csproj"
+              "/workspaces/clinicamvc/Actividad_Medico/Actividad.csproj": {
+                "projectPath": "/workspaces/clinicamvc/Actividad_Medico/Actividad.csproj"
               },
-              "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj"
+              "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj": {
+                "projectPath": "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj"
               }
             }
           }
@@ -160,34 +144,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj": {
+    "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj",
+        "projectUniqueName": "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj",
         "projectName": "Entidad",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\obj\\",
+        "projectPath": "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/clinicamvc/Entitad_Medico/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\nuget.org.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -226,34 +202,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Interfaces\\Interfaces.csproj": {
+    "/workspaces/clinicamvc/Interfaces/Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "/workspaces/clinicamvc/Interfaces/Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Interfaces\\Interfaces.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Interfaces\\obj\\",
+        "projectPath": "/workspaces/clinicamvc/Interfaces/Interfaces.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/clinicamvc/Interfaces/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\nuget.org.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -292,45 +260,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Persistencia\\Persistencia.csproj": {
+    "/workspaces/clinicamvc/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "/workspaces/clinicamvc/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Persistencia\\obj\\",
+        "projectPath": "/workspaces/clinicamvc/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/clinicamvc/Persistencia/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\nuget.org.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Entitad_Medico\\Entidad.csproj"
+              "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj": {
+                "projectPath": "/workspaces/clinicamvc/Entitad_Medico/Entidad.csproj"
               },
-              "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClinicaMVC\\Interfaces\\Interfaces.csproj"
+              "/workspaces/clinicamvc/Interfaces/Interfaces.csproj": {
+                "projectPath": "/workspaces/clinicamvc/Interfaces/Interfaces.csproj"
               }
             }
           }
@@ -383,7 +343,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

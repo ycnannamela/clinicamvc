@@ -1,0 +1,12 @@
+/workspaces/clinicamvc/Entitad_Medico/bin/Debug/net8.0/Entidad.deps.json
+/workspaces/clinicamvc/Entitad_Medico/bin/Debug/net8.0/Entidad.dll
+/workspaces/clinicamvc/Entitad_Medico/bin/Debug/net8.0/Entidad.pdb
+/workspaces/clinicamvc/Entitad_Medico/obj/Debug/net8.0/Entidad.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/clinicamvc/Entitad_Medico/obj/Debug/net8.0/Entidad.AssemblyInfoInputs.cache
+/workspaces/clinicamvc/Entitad_Medico/obj/Debug/net8.0/Entidad.AssemblyInfo.cs
+/workspaces/clinicamvc/Entitad_Medico/obj/Debug/net8.0/Entidad.csproj.CoreCompileInputs.cache
+/workspaces/clinicamvc/Entitad_Medico/obj/Debug/net8.0/Entidad.sourcelink.json
+/workspaces/clinicamvc/Entitad_Medico/obj/Debug/net8.0/Entidad.dll
+/workspaces/clinicamvc/Entitad_Medico/obj/Debug/net8.0/refint/Entidad.dll
+/workspaces/clinicamvc/Entitad_Medico/obj/Debug/net8.0/Entidad.pdb
+/workspaces/clinicamvc/Entitad_Medico/obj/Debug/net8.0/ref/Entidad.dll
